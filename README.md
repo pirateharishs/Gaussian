@@ -23,7 +23,6 @@ Program to find the solution of a matrix using Gaussian Elimination.
 ![image](https://github.com/pirateharishs/Gaussian/assets/166011385/d3b83334-c496-4c74-9edc-e4dbf511564b)
 
 ## Output:
-![gaussian elimination]()
 ![image](https://github.com/pirateharishs/Gaussian/assets/166011385/62c52431-e062-4807-a122-6e8c6fda9ba8)
 
 
