@@ -14,13 +14,12 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Then print the program with correct form then the output will display.
 
 ## Program:
-```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 ## Developed by: HARISH S
 ## RegisterNumber: 212223230071
 */
-```
+
 ![image](https://github.com/pirateharishs/Gaussian/assets/166011385/d3b83334-c496-4c74-9edc-e4dbf511564b)
 
 ## Output:
